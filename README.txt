@@ -31,6 +31,7 @@ This is a simple yet fun interactive puzzle built with Python + HTML/CSS/JS. Whe
        >>>>>> OR <<<<<<
 
 - Download the zip file (puzzle_vpa.zip) from the GitHub repo: https://github.com/VladcthorXO/BRP_Puzzle_Victor/puzzle_vpa.zip
+- Unzip the folder
 - Run the exe file: puzzle_vpa.exe
 - Enjoy! Your browser will automatically open puzzle_vpa.html.
 
@@ -72,5 +73,5 @@ Thank you for this opportunity and your time! I hope you enjoyed the puzzle—ju
 
 
 The best Regards,
-Victor P. Araújo
-+5541996292646
+V.P.A
+...
