@@ -22,15 +22,16 @@ This is a simple yet fun interactive puzzle built with Python + HTML/CSS/JS. Whe
 (To execute via Python)
 - Step 1: -Clone the Repository 
        -git clone https://github.com/VladcthorXO/BRP_Puzzle_Victor/puzzle_vpa.git
-       -cd puzzle_vpa  
+       -cd BRP_Puzzle_Victor  
 
-- Step 2: Run the Python Script (python puzzle_vpa.py  # Or python3, depending on your system) 
+- Step 2: Run the Python Script: 
+       -python puzzle_vpa.py  # Or python3, depending on your system 
 
 - Step 3: Enjoy! Your browser will automatically open puzzle_vpa.html.
 
        >>>>>> OR <<<<<<
 
-- Download the zip file (puzzle_vpa.zip) from the GitHub repo: https://github.com/VladcthorXO/BRP_Puzzle_Victor/puzzle_vpa.zip
+- Download the zip file (puzzle_vpa.zip) from the GitHub repo: https://github.com/VladcthorXO/BRP_Puzzle_Victor/
 - Unzip the folder
 - Run the exe file: puzzle_vpa.exe
 - Enjoy! Your browser will automatically open puzzle_vpa.html.
